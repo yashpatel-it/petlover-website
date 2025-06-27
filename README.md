@@ -2,14 +2,14 @@
 
 <p>Welcome to <strong>PetLover</strong>, a beautiful and responsive PHP-based website made for pet lovers. It showcases pets, services, products, and includes contact functionality with PHP backend support.</p>
 
-<img src="https://raw.githubusercontent.com/yashpatel-it/petlover-website/main/assets/banner.jpg" alt="PetLover Banner" width="100%">
+<img src="https://github.com/yashpatel-it/petlover-website/blob/main/img/petlover%20banner.jpg" alt="PetLover Banner" width="100%">
 
 <hr>
 
 <h2>🌟 Features</h2>
 <ul>
   <li>🐶 Display pet-related services or blogs</li>
-  <li>💌 PHP Contact form handling</li>
+  <li>💌 Donate And get insurance of pets</li>
   <li>🖼️ Image gallery</li>
   <li>📱 Fully responsive (HTML, CSS, JS)</li>
   <li>🧩 Modular code structure using includes</li>
@@ -66,12 +66,14 @@ petlover-website/
 
 <table>
   <tr>
-    <th>Homepage</th>
+    <th>Booking Page</th>
     <th>Contact Page</th>
+    <th>Service Page</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yashpatel-it/petlover-website/main/assets/screenshots/home.png" width="400"></td>
-    <td><img src="C:/Users/pyash/OneDrive/Pictures/Screenshots/Screenshot 2025-06-17 104922.png" width="400"></td>
+    <td><img src="https://github.com/yashpatel-it/petlover-website/blob/main/img/Screenshot%202025-06-17%20104903.png" width="400"></td>
+    <td><img src="https://github.com/yashpatel-it/petlover-website/blob/main/img/Screenshot%202025-06-17%20104922.png" width="400"></td>
+    <td><img src="https://github.com/yashpatel-it/petlover-website/blob/main/img/Screenshot%202025-06-27%20161824.png"></td>
   </tr>
 </table>
 
@@ -87,3 +89,13 @@ petlover-website/
 
 <h2>📃 License</h2>
 <p>Licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashpatel-it.petlover-website" alt="Repo Visitor Count" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/github/stars/yashpatel-it/petlover-website?style=social" alt="GitHub Stars" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/github/forks/yashpatel-it/petlover-website?style=social" alt="GitHub Forks" />
+</p>
+
+
